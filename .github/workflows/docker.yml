@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: <your_dockerhub_username>/mycloudapp:latest
+          tags: carmadix/mycloudapp:latest
